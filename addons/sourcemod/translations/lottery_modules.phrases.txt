@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"shop_credits"
+	{
+		"en"		"Credits"
+		"ru"		"Кредиты"
+	}
+}

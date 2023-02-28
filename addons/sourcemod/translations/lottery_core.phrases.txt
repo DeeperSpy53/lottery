@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"MenuTitle"
+	{
+		"en"		"Lottery"
+		"ru"		"Лотерея"
+	}
+	
+	"LuckTitle"
+	{
+		"ru"		"Испытать удачу"
+		"en"		"Try your luck"
+	}
+}
